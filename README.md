@@ -1,5 +1,5 @@
 # risc_v_disassembler
-Simple RISC-V disassembler. Supported command sets: RV32I, RV32M.
+Simple RISC-V disassembler. Supported command sets: [RV32I](https://msyksphinz-self.github.io/riscv-isadoc/html/rvi.html), [RV32M](https://msyksphinz-self.github.io/riscv-isadoc/html/rvm.html).
 The test ELF file is in the `test_data` folder. 
 
 
